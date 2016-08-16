@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFirstApp</string>
+    <string name="title">MegsApp</string>
+    <string name="welcome">Welcome to MegsApp!</string>
+    <string name="main_body">This is an appy app</string>
+</resources>
